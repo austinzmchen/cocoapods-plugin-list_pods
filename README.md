@@ -11,7 +11,7 @@ $ gem install cocoapods-list_pods
 ## Usage
 
 ```bash
-$ pod check-latest viewcontroller
+$ pod list-pods <repo>
 
 
 -> AMBubbleTableViewController
